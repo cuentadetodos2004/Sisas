@@ -3516,3 +3516,11 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 21:14:01.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Knowledge of Death]
 [12Jun2025 21:14:01.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Easter Food]
 [12Jun2025 21:15:37.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 21:18:53.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Teleported KevinArenas2474 to Se4norComediante]
+[12Jun2025 21:24:35.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 21:25:41.929] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Verastenma lost connection: Disconnected
+[12Jun2025 21:25:41.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma left the game
+[12Jun2025 21:25:46.991] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7290c9d9
+[12Jun2025 21:25:47.002] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Verastenma[/100.110.12.14:50516] logged in with entity id 25936 at (45.705630138783604, 95.0, -306.65737777500823)
+[12Jun2025 21:25:47.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma joined the game
+[12Jun2025 21:25:47.056] [Server thread/INFO] [Waila/]: Syncing config to Verastenma (645a0ca1-9a50-3f59-b1df-a935553ab5d1)

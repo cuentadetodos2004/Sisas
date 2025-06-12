@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-12 20:21:52 +0000"
@@ -252,6 +258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_grill": {
     "criteria": {
       "has_iron": "2025-06-12 20:21:52 +0000"
@@ -324,9 +336,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
     },
     "done": true
   },
@@ -462,6 +486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-06-12 20:18:13 +0000"
@@ -477,6 +507,18 @@
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-06-12 20:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
     },
     "done": true
   },
@@ -537,6 +579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
+    },
+    "done": true
+  },
   "fusion:recipes/sinisite_bow": {
     "criteria": {
       "has_string": "2025-06-12 20:21:52 +0000"
@@ -552,6 +600,12 @@
   "fusion:recipes/bronze_tools": {
     "criteria": {
       "has_bronze": "2025-06-12 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
     },
     "done": true
   },
@@ -634,6 +688,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-12 20:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
     },
     "done": true
   },
@@ -913,6 +973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-12 21:26:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_log": "2025-06-12 20:21:52 +0000"
@@ -964,6 +1030,12 @@
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-06-12 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
     },
     "done": true
   },
@@ -1044,6 +1116,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
     },
     "done": true
   },
@@ -1143,6 +1221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-06-12 20:18:13 +0000"
@@ -1227,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
+    },
+    "done": true
+  },
   "fusion:recipes/fusion/bronze_block": {
     "criteria": {
       "has_item": "2025-06-12 20:21:52 +0000"
@@ -1248,6 +1338,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-12 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 21:24:05 +0000"
     },
     "done": true
   },
