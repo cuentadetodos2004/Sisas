@@ -6378,3 +6378,13 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 21:25:47.056] [Server thread/INFO] [Waila/]: Syncing config to Verastenma (645a0ca1-9a50-3f59-b1df-a935553ab5d1)
 [12Jun2025 21:28:31.538] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [12Jun2025 21:28:31.543] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 21:33:28.530] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Verastenma lost connection: Disconnected
+[12Jun2025 21:33:28.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma left the game
+[12Jun2025 21:33:31.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 21:33:31.574] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 21:36:29.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Sweet Dreams]
+[12Jun2025 21:36:40.787] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KevinArenas2474 lost connection: Disconnected
+[12Jun2025 21:36:40.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 left the game
+[12Jun2025 21:38:31.513] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 21:38:31.517] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 21:38:38.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
