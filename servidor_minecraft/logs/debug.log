@@ -5728,3 +5728,33 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 20:33:23.926] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [12Jun2025 20:33:54.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has reached the goal [Heliomancer]
 [12Jun2025 20:37:07.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 20:38:23.677] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 20:38:23.683] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 20:38:47.488] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.9482698440551758
+[12Jun2025 20:38:47.531] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 1.0
+[12Jun2025 20:38:47.585] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 1.0
+[12Jun2025 20:38:47.632] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.9061568975448608
+[12Jun2025 20:38:47.682] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 1.0
+[12Jun2025 20:38:47.740] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.8816460371017456
+[12Jun2025 20:38:47.786] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.8549892902374268
+[12Jun2025 20:38:49.381] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.8938742876052856
+[12Jun2025 20:38:49.430] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 1.0
+[12Jun2025 20:38:49.484] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.868279755115509
+[12Jun2025 20:38:49.541] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.8404721021652222
+[12Jun2025 20:38:49.583] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.8404721021652222
+[12Jun2025 20:38:49.633] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 1.0
+[12Jun2025 20:38:49.682] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.8241960406303406
+[12Jun2025 20:38:49.731] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 1.0
+[12Jun2025 20:39:00.136] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 0.35699779726564884
+[12Jun2025 20:39:00.185] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dirt Bike (vehicle of Verastenma) moved wrongly! 1.2443932984024286
+[12Jun2025 20:39:16.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma has made the advancement [Stone Age]
+[12Jun2025 20:39:27.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Teleported Verastenma to Se4norComediante]
+[12Jun2025 20:43:05.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma was slain by Se4norComediante
+[12Jun2025 20:43:05.954] [Server thread/DEBUG] [tombstone/]: A new grave of the player Verastenma was created at position [x:98, y:56, z:-255, dim:minecraft:overworld]
+[12Jun2025 20:43:05.956] [Server thread/INFO] [tombstone/]: The player Verastenma has successfully been saved
+[12Jun2025 20:43:23.738] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 20:43:23.746] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 20:43:48.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Spectator Mode]
+[12Jun2025 20:44:42.741] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Se4norComediante moved too quickly! -3.4702244032089027,0.0,-9.865985835542006
+[12Jun2025 20:44:46.021] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Se4norComediante moved too quickly! 1.0712901106371078,-2.446947937232963,-10.06843899244609
+[12Jun2025 20:46:17.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
