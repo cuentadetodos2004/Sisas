@@ -3542,3 +3542,6 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 21:49:51.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Killed Se4norComediante]
 [12Jun2025 21:49:51.551] [Server thread/INFO] [tombstone/]: The player Se4norComediante has successfully been saved
 [12Jun2025 21:57:04.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 21:59:47.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [Getting an Upgrade]
+[12Jun2025 22:06:15.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 22:09:05.132] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/32556, l='ServerLevel[world]', x=46.83, y=95.79, z=-305.89]

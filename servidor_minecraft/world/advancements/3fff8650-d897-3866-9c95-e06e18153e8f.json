@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-06-12 21:59:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-06-12 20:21:52 +0000"
@@ -724,6 +730,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-12 21:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-12 21:59:47 +0000"
     },
     "done": true
   },
