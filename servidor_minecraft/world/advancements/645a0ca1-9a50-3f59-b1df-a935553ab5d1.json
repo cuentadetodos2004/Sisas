@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-12 20:06:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_cooler": {
     "criteria": {
       "has_chest": "2025-06-12 20:01:21 +0000"
@@ -143,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-12 20:07:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_grill": {
     "criteria": {
       "has_iron": "2025-06-12 20:01:08 +0000"
@@ -176,6 +188,12 @@
   "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-06-12 20:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-12 20:07:39 +0000"
     },
     "done": true
   },
@@ -214,6 +232,12 @@
       "has_iron_ingot": "2025-06-12 20:01:08 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-06-12 20:10:10 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
@@ -335,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-12 20:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-12 19:59:55 +0000"
@@ -425,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-12 20:10:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-06-12 20:00:40 +0000"
@@ -434,6 +470,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 20:01:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-06-12 20:10:10 +0000"
     },
     "done": true
   },
@@ -485,9 +527,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-12 20:06:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-06-12 20:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-12 20:06:44 +0000"
     },
     "done": true
   },
@@ -509,9 +563,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-12 20:06:30 +0000",
+      "minecraft:spider": "2025-06-12 20:06:43 +0000",
+      "minecraft:zombie": "2025-06-12 20:07:18 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-06-12 19:59:50 +0000"
+    },
+    "done": true
+  },
+  "fusion:recipes/sinisite_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 20:06:44 +0000"
     },
     "done": true
   },
@@ -675,9 +743,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-12 20:06:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-06-12 20:01:21 +0000"
+    },
+    "done": true
+  },
+  "fusion:recipes/thyrium_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 20:06:44 +0000"
     },
     "done": true
   },
@@ -768,6 +848,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-12 19:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-06-12 20:08:17 +0000"
     },
     "done": true
   },
@@ -885,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-12 20:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-12 19:59:55 +0000"
@@ -906,6 +998,12 @@
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_log": "2025-06-12 19:59:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-06-12 20:07:14 +0000"
     },
     "done": true
   },
@@ -996,6 +1094,12 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-06-12 19:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-12 20:06:30 +0000"
     },
     "done": true
   },
@@ -1293,6 +1397,12 @@
   "cfm:recipes/cfm/black_cooler": {
     "criteria": {
       "has_chest": "2025-06-12 20:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-06-12 20:07:14 +0000"
     },
     "done": true
   },
