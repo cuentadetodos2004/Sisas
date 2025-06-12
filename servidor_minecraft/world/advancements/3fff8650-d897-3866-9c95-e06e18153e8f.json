@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-12 20:54:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-06-12 20:21:52 +0000"
@@ -570,6 +576,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-12 20:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-06-12 20:21:52 +0000"
@@ -662,9 +674,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-06-12 20:45:21 +0000",
+      "minecraft:mountains": "2025-06-12 20:46:10 +0000",
+      "minecraft:desert": "2025-06-12 20:49:36 +0000",
+      "minecraft:birch_forest": "2025-06-12 20:45:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-12 20:24:27 +0000",
+      "minecraft:badlands": "2025-06-12 20:49:37 +0000",
       "minecraft:beach": "2025-06-12 20:24:28 +0000",
+      "minecraft:dark_forest": "2025-06-12 20:44:19 +0000",
       "minecraft:river": "2025-06-12 20:24:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-12 20:49:49 +0000",
+      "minecraft:wooded_mountains": "2025-06-12 20:46:43 +0000",
+      "minecraft:wooded_hills": "2025-06-12 20:45:16 +0000",
+      "minecraft:wooded_badlands_plateau": "2025-06-12 20:49:38 +0000",
+      "minecraft:swamp": "2025-06-12 20:44:39 +0000",
       "minecraft:plains": "2025-06-12 20:18:13 +0000"
     },
     "done": false
@@ -834,6 +857,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-06-12 20:24:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-06-12 20:50:35 +0000"
     },
     "done": true
   },

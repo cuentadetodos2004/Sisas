@@ -3467,3 +3467,37 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 20:44:42.741] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Se4norComediante moved too quickly! -3.4702244032089027,0.0,-9.865985835542006
 [12Jun2025 20:44:46.021] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Se4norComediante moved too quickly! 1.0712901106371078,-2.446947937232963,-10.06843899244609
 [12Jun2025 20:46:17.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 20:48:25.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[12Jun2025 20:49:47.804] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Jun2025 20:49:47.806] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Jun2025 20:50:23.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Teleported Verastenma to Se4norComediante]
+[12Jun2025 20:50:35.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [What Happens in Las Vegas...]
+[12Jun2025 20:51:02.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma has made the advancement [What Happens in Las Vegas...]
+[12Jun2025 20:51:38.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma has made the advancement [Where Is The Stone Pen?]
+[12Jun2025 20:52:01.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 20:52:17.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Teleported Verastenma to Se4norComediante]
+[12Jun2025 20:52:51.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma was burnt to a crisp whilst fighting Se4norComediante
+[12Jun2025 20:52:51.401] [Server thread/INFO] [tombstone/]: The player Verastenma has successfully been saved
+[12Jun2025 20:53:27.875] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Verastenma moved too quickly! -10.037476134775673,-1.1661092609382138,-1.4163249115385952
+[12Jun2025 20:53:27.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[12Jun2025 20:53:30.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [Where Is The Stone Pen?]
+[12Jun2025 20:54:26.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3551ms or 71 ticks behind
+[12Jun2025 20:54:26.897] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Verastenma moved too quickly! -4.7067201495447435,0.15995433126389713,-8.852344195118178
+[12Jun2025 20:54:47.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Teleported Se4norComediante to Verastenma]
+[12Jun2025 20:55:25.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma fell out of the world
+[12Jun2025 20:55:25.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Killed Verastenma]
+[12Jun2025 20:55:25.923] [Server thread/INFO] [tombstone/]: The player Verastenma has successfully been saved
+[12Jun2025 20:55:43.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Teleported Se4norComediante to Verastenma]
+[12Jun2025 20:56:34.931] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Verastenma lost connection: Disconnected
+[12Jun2025 20:56:34.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma left the game
+[12Jun2025 20:56:38.528] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Se4norComediante lost connection: Disconnected
+[12Jun2025 20:56:38.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante left the game
+[12Jun2025 20:56:41.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@97ceaa3
+[12Jun2025 20:56:41.646] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Verastenma[/100.110.12.14:50417] logged in with entity id 19557 at (186.4828491665564, 68.0, -261.3970658053893)
+[12Jun2025 20:56:41.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma joined the game
+[12Jun2025 20:56:41.725] [Server thread/INFO] [Waila/]: Syncing config to Verastenma (645a0ca1-9a50-3f59-b1df-a935553ab5d1)
+[12Jun2025 20:57:00.836] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@26fe2581
+[12Jun2025 20:57:00.845] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Se4norComediante[/100.112.246.60:58336] logged in with entity id 19734 at (185.34855587174826, 68.0, -262.82412432924224)
+[12Jun2025 20:57:00.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante joined the game
+[12Jun2025 20:57:00.899] [Server thread/INFO] [Waila/]: Syncing config to Se4norComediante (3fff8650-d897-3866-9c95-e06e18153e8f)
+[12Jun2025 20:57:17.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
