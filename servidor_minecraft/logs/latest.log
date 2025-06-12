@@ -3591,3 +3591,17 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 22:39:05.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Survival Mode]
 [12Jun2025 22:39:06.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante was blown up by Niggersky
 [12Jun2025 22:39:06.899] [Server thread/INFO] [tombstone/]: The player Se4norComediante has successfully been saved
+[12Jun2025 22:40:07.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 22:42:22.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Spectator Mode]
+[12Jun2025 22:42:25.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante fell out of the world
+[12Jun2025 22:42:25.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Killed Se4norComediante]
+[12Jun2025 22:43:32.290] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Se4norComediante moved too quickly! -10.140772401671569,0.5568313179656883,-1.0778373085406088
+[12Jun2025 22:43:35.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 22:43:35.531] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/37413, l='ServerLevel[world]', x=47.17, y=95.40, z=-305.52]
+[12Jun2025 22:43:35.532] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/37414, l='ServerLevel[world]', x=47.38, y=95.77, z=-305.80]
+[12Jun2025 22:43:35.532] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/37415, l='ServerLevel[world]', x=47.36, y=95.46, z=-306.11]
+[12Jun2025 22:43:35.532] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/37416, l='ServerLevel[world]', x=46.94, y=95.52, z=-306.08]
+[12Jun2025 22:44:58.574] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Se4norComediante moved too quickly! -1.7606122076559245,3.3750001341104507,9.335930593527536
+[12Jun2025 22:46:15.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Teleported Se4norComediante to 234.5, 140.5, -706.5]
+[12Jun2025 22:46:39.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 22:48:09.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [Ashes 'n Bones]
