@@ -3531,3 +3531,14 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 21:36:40.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 left the game
 [12Jun2025 21:38:38.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
 [12Jun2025 21:47:36.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 21:49:07.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set spawn point to 49, 95, -306 [0.0] in minecraft:overworld for Se4norComediante]
+[12Jun2025 21:49:12.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has reached the goal [Strong or Careful]
+[12Jun2025 21:49:12.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante fell out of the world
+[12Jun2025 21:49:12.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [Your First Grave]
+[12Jun2025 21:49:12.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Killed Se4norComediante]
+[12Jun2025 21:49:12.053] [Server thread/INFO] [tombstone/]: The player Se4norComediante has successfully been saved
+[12Jun2025 21:49:45.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set spawn point to 50, 95, -306 [0.0] in minecraft:overworld for Se4norComediante]
+[12Jun2025 21:49:51.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante fell out of the world
+[12Jun2025 21:49:51.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Killed Se4norComediante]
+[12Jun2025 21:49:51.551] [Server thread/INFO] [tombstone/]: The player Se4norComediante has successfully been saved
+[12Jun2025 21:57:04.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
