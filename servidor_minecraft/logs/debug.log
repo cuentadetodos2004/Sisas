@@ -6495,3 +6495,36 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 22:48:09.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [Ashes 'n Bones]
 [12Jun2025 22:48:32.129] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [12Jun2025 22:48:32.142] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 22:50:13.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Survival Mode]
+[12Jun2025 22:50:26.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 22:50:39.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Survival Mode]
+[12Jun2025 22:50:42.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 22:50:53.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Spectator Mode]
+[12Jun2025 22:50:55.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante fell out of the world
+[12Jun2025 22:50:55.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Killed Se4norComediante]
+[12Jun2025 22:51:14.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 22:51:15.031] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/39899, l='ServerLevel[world]', x=47.06, y=95.96, z=-306.01]
+[12Jun2025 22:51:15.031] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/39900, l='ServerLevel[world]', x=47.47, y=95.35, z=-306.18]
+[12Jun2025 22:51:15.031] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/39901, l='ServerLevel[world]', x=47.05, y=95.55, z=-305.77]
+[12Jun2025 22:51:15.032] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/39902, l='ServerLevel[world]', x=47.12, y=95.80, z=-305.81]
+[12Jun2025 22:52:15.029] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Se4norComediante lost connection: Disconnected
+[12Jun2025 22:52:15.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante left the game
+[12Jun2025 22:52:27.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[12Jun2025 22:52:27.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jun2025 22:52:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jun2025 22:52:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jun2025 22:52:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Jun2025 22:52:29.727] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Jun2025 22:52:29.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Jun2025 22:52:29.728] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jun2025 22:52:29.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Jun2025 22:52:29.730] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jun2025 22:52:29.731] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 22:52:29.736] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 22:52:29.756] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Jun2025 22:52:29.828] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jun2025 22:52:29.828] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jun2025 22:52:29.833] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[12Jun2025 22:52:29.833] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[12Jun2025 22:52:29.836] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies
+[12Jun2025 22:52:29.840] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies
