@@ -3426,3 +3426,19 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 20:25:19.412] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=106, y=68, z=-263} BlockPos{x=107, y=67, z=-263}
 [12Jun2025 20:26:10.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Se4norComediante a server operator
 [12Jun2025 20:27:47.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 20:27:59.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [Monster Hunter]
+[12Jun2025 20:27:59.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [A Strange Grave Dust]
+[12Jun2025 20:28:50.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [Easter Food]
+[12Jun2025 20:30:10.749] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@17d5d49e
+[12Jun2025 20:30:10.775] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Verastenma[/100.110.12.14:50211] logged in with entity id 6969 at (231.0187278735754, 64.0625, -290.2458248742208)
+[12Jun2025 20:30:10.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma joined the game
+[12Jun2025 20:30:10.858] [Server thread/INFO] [Waila/]: Syncing config to Verastenma (645a0ca1-9a50-3f59-b1df-a935553ab5d1)
+[12Jun2025 20:31:32.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 20:33:14.429] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Verastenma lost connection: Disconnected
+[12Jun2025 20:33:14.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma left the game
+[12Jun2025 20:33:22.837] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@184e1155
+[12Jun2025 20:33:22.846] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Verastenma[/100.110.12.14:50265] logged in with entity id 7606 at (210.10388939555665, 66.0, -302.8232876996608)
+[12Jun2025 20:33:22.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Verastenma joined the game
+[12Jun2025 20:33:22.904] [Server thread/INFO] [Waila/]: Syncing config to Verastenma (645a0ca1-9a50-3f59-b1df-a935553ab5d1)
+[12Jun2025 20:33:54.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has reached the goal [Heliomancer]
+[12Jun2025 20:37:07.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
