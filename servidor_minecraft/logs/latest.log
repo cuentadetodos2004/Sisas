@@ -3501,3 +3501,13 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 20:57:00.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante joined the game
 [12Jun2025 20:57:00.899] [Server thread/INFO] [Waila/]: Syncing config to Se4norComediante (3fff8650-d897-3866-9c95-e06e18153e8f)
 [12Jun2025 20:57:17.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 21:00:34.038] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f045d26
+[12Jun2025 21:00:34.043] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KevinArenas2474[/100.103.22.73:50120] logged in with entity id 20367 at (249.5, 64.0, -241.5)
+[12Jun2025 21:00:34.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 joined the game
+[12Jun2025 21:00:34.126] [Server thread/INFO] [Waila/]: Syncing config to KevinArenas2474 (5a3d499e-d63f-31d3-9d66-7da7ea12a671)
+[12Jun2025 21:00:34.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Easter Egg Searcher]
+[12Jun2025 21:00:34.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Minecraft Comes Alive]
+[12Jun2025 21:03:49.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Stone Age]
+[12Jun2025 21:05:18.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Getting an Upgrade]
+[12Jun2025 21:05:24.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [Diamonds!]
+[12Jun2025 21:06:27.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]

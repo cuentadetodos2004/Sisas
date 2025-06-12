@@ -59,15 +59,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-06-12 20:47:03 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/granite_desk": {
     "criteria": {
       "has_planks": "2025-06-12 20:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-12 20:47:03 +0000"
     },
     "done": true
   },
@@ -848,15 +848,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-06-12 20:43:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-12 20:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-12 20:43:52 +0000"
     },
     "done": true
   },
@@ -1028,15 +1028,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-06-12 20:46:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-12 20:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-12 20:46:42 +0000"
     },
     "done": true
   },
@@ -1550,9 +1550,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+  "cfm:recipes/cfm/granite_bedside_cabinet": {
     "criteria": {
-      "has_leather": "2025-06-12 20:44:30 +0000"
+      "has_planks": "2025-06-12 20:42:58 +0000"
     },
     "done": true
   },
@@ -1562,9 +1562,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/granite_bedside_cabinet": {
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
-      "has_planks": "2025-06-12 20:42:58 +0000"
+      "has_leather": "2025-06-12 20:44:30 +0000"
     },
     "done": true
   },
