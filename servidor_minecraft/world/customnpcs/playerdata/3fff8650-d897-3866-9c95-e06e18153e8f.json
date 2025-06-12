@@ -7,13 +7,17 @@
         {
             "Points": 2000,
             "Faction": 0
+        },
+        {
+            "Points": 0,
+            "Faction": 2
         }
     ],
     "BankData": [
     ],
     "ItemGiversList": [
         {
-            "Long": 1749766652126L,
+            "Long": 1749766733126L,
             "Slot": 1
         }
     ],
