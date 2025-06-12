@@ -6219,3 +6219,14 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 21:05:18.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Getting an Upgrade]
 [12Jun2025 21:05:24.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [Diamonds!]
 [12Jun2025 21:06:27.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 21:08:32.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 21:08:32.721] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 21:08:32.757] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of KevinArenas2474) moved too quickly! 7.553169898507576,0.0,7.147099418610139
+[12Jun2025 21:08:32.758] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of KevinArenas2474) moved too quickly! 7.843602368141839,0.0,7.422106206380306
+[12Jun2025 21:13:31.745] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 21:13:31.749] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 21:14:01.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Knowledge of Death]
+[12Jun2025 21:14:01.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinArenas2474 has made the advancement [Easter Food]
+[12Jun2025 21:15:37.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 21:18:31.572] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 21:18:31.577] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
