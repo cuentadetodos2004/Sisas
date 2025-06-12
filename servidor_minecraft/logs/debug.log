@@ -6454,3 +6454,26 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [12Jun2025 22:28:35.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
 [12Jun2025 22:29:07.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Survival Mode]
 [12Jun2025 22:29:17.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 22:29:39.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Survival Mode]
+[12Jun2025 22:29:41.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante was slain by Astorias
+[12Jun2025 22:29:41.955] [Server thread/DEBUG] [tombstone/]: A new grave of the player Se4norComediante was created at position [x:241, y:139, z:-713, dim:minecraft:overworld]
+[12Jun2025 22:29:41.965] [Server thread/INFO] [tombstone/]: The player Se4norComediante has successfully been saved
+[12Jun2025 22:30:07.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has reached the goal [Here They Come]
+[12Jun2025 22:30:17.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 22:33:31.986] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 22:33:31.992] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 22:34:01.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante has made the advancement [A True Source of Evil]
+[12Jun2025 22:34:33.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Spectator Mode]
+[12Jun2025 22:34:35.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante fell out of the world
+[12Jun2025 22:34:35.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Killed Se4norComediante]
+[12Jun2025 22:34:46.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Survival Mode]
+[12Jun2025 22:35:12.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 22:35:41.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Survival Mode]
+[12Jun2025 22:35:46.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Creative Mode]
+[12Jun2025 22:36:56.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set the time to 1000]
+[12Jun2025 22:38:32.406] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jun2025 22:38:32.410] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jun2025 22:39:05.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Se4norComediante: Set own game mode to Survival Mode]
+[12Jun2025 22:39:06.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Se4norComediante was blown up by Niggersky
+[12Jun2025 22:39:06.897] [Server thread/DEBUG] [tombstone/]: A new grave of the player Se4norComediante was created at position [x:244, y:139, z:-701, dim:minecraft:overworld]
+[12Jun2025 22:39:06.899] [Server thread/INFO] [tombstone/]: The player Se4norComediante has successfully been saved
