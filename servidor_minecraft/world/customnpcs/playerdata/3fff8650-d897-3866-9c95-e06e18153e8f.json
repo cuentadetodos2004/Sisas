@@ -12,6 +12,10 @@
     "BankData": [
     ],
     "ItemGiversList": [
+        {
+            "Long": 1749766652126L,
+            "Slot": 1
+        }
     ],
     "QuestData": {
         "CompletedQuests": [
